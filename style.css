@@ -1,0 +1,18 @@
+
+body{
+    background-color: #19181b;
+    color: #f8f6ea;
+}
+
+a:visited, a:hover{
+    color: #8888ff;
+}
+
+a{
+    color: #66aaff;
+}
+
+*{
+    text-align: center;
+    font-family: sans-serif;
+}
