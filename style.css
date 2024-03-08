@@ -34,10 +34,14 @@ body{
 
 .titletext small {
     position: absolute;
-    right: 30%;
+    right: 25%;
     bottom: -15px;
     margin: auto;
     color: darkgray;
+}
+
+.titletext small:hover {
+    cursor: pointer;
 }
 
 hr {
