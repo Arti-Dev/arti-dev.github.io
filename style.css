@@ -4,6 +4,40 @@ body{
     color: #f8f6ea;
 }
 
+.header {
+    display: flex;
+    width: fit-content;
+    flex-direction: row;
+    margin: 20px auto;
+    gap: 20px;
+}
+
+.header img {
+    width: 108px;
+    height: 108px;
+}
+
+.titletext {
+    position: relative;
+    width: fit-content;
+    margin: auto;
+}
+
+.titletext h1 {
+    margin: auto;
+    width: fit-content;
+    font-size: 80px;
+    color: #2897FF;
+}
+
+.titletext small {
+    position: absolute;
+    right: 30%;
+    bottom: 0;
+    margin: auto;
+    color: darkgray;
+}
+
 a:visited, a:hover{
     color: #8888ff;
 }
@@ -14,5 +48,6 @@ a{
 
 *{
     text-align: center;
-    font-family: sans-serif;
+    font-family: Dubai, serif;
+    line-height: 1.2
 }
