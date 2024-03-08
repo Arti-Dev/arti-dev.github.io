@@ -2,6 +2,9 @@
 body{
     background-color: #19181b;
     color: #f8f6ea;
+    margin: 20px auto;
+    max-width: 50%;
+    overflow: visible;
 }
 
 .header {
@@ -26,16 +29,61 @@ body{
 .titletext h1 {
     margin: auto;
     width: fit-content;
-    font-size: 80px;
+    font-size: 60px;
     color: #2897FF;
 }
 
 .titletext small {
     position: absolute;
     right: 30%;
-    bottom: 0;
+    bottom: -15px;
     margin: auto;
     color: darkgray;
+}
+
+hr {
+    overflow: visible;
+    border: dashed 2px darkgray;
+    margin: 30px 40px;
+}
+
+/* Triangle code adapted from
+https://stackoverflow.com/questions/18816486/how-can-i-make-a-pointy-arrow-with-a-div-in-css */
+hr:before {
+    position: relative;
+    bottom: 10px;
+    left: -10px;
+    display: inline;
+    content: "";
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-right: 20px solid darkgray;
+    float: left;
+}
+
+hr:after {
+    position: relative;
+    bottom: 10px;
+    right: -10px;
+    display: inline;
+    content: "";
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-left: 20px solid darkgray;
+    float: right;
+}
+
+.frontpageimg {
+    background-image: url("assets/20231226_174108.jpg");
+    background-size: 640px 360px;
+    filter: blur(2px);
+    height: 360px;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 a:visited, a:hover{
