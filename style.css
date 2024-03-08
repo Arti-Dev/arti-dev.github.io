@@ -4,7 +4,6 @@ body{
     color: #f8f6ea;
     margin: 20px auto;
     max-width: 50%;
-    overflow: visible;
 }
 
 .header {
@@ -85,6 +84,55 @@ hr:after {
     background-repeat: no-repeat;
     background-position: center;
 }
+
+.buttonbox {
+    margin: 40px auto;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+}
+
+.button {
+    background-color: transparent;
+    border-color: darkgray;
+    border-style: solid;
+    font-weight: bold;
+    transition-duration: 0.4s;
+    border-radius: 10px;
+    color: darkgray;
+    padding: 15px 30px;
+    text-decoration: blink;
+    display: inline-block;
+    font-size: 30px;
+}
+
+
+.button.youtube:hover {
+    background-color: red;
+}
+
+.button.github:hover {
+    background-color: purple;
+}
+
+/*.button.projects:hover {*/
+/*    background-color: #ff9028;*/
+/*}*/
+
+.button.projects {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.button.blog {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+/*.button.blog:hover {*/
+/*    background-color: #2897ff;*/
+/*}*/
 
 a:visited, a:hover{
     color: #8888ff;
