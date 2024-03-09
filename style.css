@@ -158,8 +158,11 @@ button.secret:hover {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: center;
     gap: 10px;
+}
+
+.footer p, footer a {
+    margin: 0;
 }
 
 /*.button.blog:hover {*/
