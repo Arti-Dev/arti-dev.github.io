@@ -2,7 +2,7 @@ title: "Arti's Site"
 description: "Where someone whose online name is 'arti_creep' tells stories." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "arti-dev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://arti-dev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
