@@ -149,9 +149,8 @@ button.secret:hover {
     cursor: not-allowed;
 }
 
-.button.blog {
-    opacity: 0.5;
-    cursor: not-allowed;
+.button.blog:hover {
+    background-color: #2897ff;
 }
 
 .footer {
@@ -164,10 +163,6 @@ button.secret:hover {
 .footer p, footer a {
     margin: 0;
 }
-
-/*.button.blog:hover {*/
-/*    background-color: #2897ff;*/
-/*}*/
 
 a:visited, a:hover{
     color: #8888ff;
