@@ -19,6 +19,10 @@ ALOFT was probably one of my most favorite introductory projects I've done.
 You're told to modify a sheet of paper to make it stay aloft for as long as possible.
 You're also taught about the *Engineering Design Process* through this project.
 
+<img src="/assets/aloft.jpg" alt="paperparachute" width="50%"/>
+
+*A paper parachute with zero tape used. It doesn't stay aloft for long, though..*
+
 The other two modules were focused on specific goals or *success criteria*
 of engineering. The Sustainability module wasn't very hands on, but was about introducing
 proper research and writeups of **problem definitions**.
@@ -28,6 +32,10 @@ accessibility issue on grounds and were given a few weeks to fabricate a design!
 
 My group made this cool door holder that can be adjusted to hold the door
 at different angles.
+
+<img src="/assets/doorhelder1.jpg" alt="Door holder" width="50%"/>
+
+<img src="/assets/doorhelder2.jpg" alt="Door holder in action"/>
 
 In addition to all of this, you'll have some side assignments such as
 CAD assignments to help you gain some skill and knowledge in common Engineering
@@ -76,8 +84,16 @@ He was seeking a collaborative art installation to put in the Lab.
 
 We made an "Emotion Heatmap"!
 
+<img src="/assets/heatmap1.jpg" alt="emotionheatmap" width="50%"/>
+
 You essentially take some yarn from the back of this board, tie it to a pin, and
 connect emotions. Over time this makes art from all the people who have used it.
+
+<img src="/assets/heatmap2.jpg" alt="Yarn on the back" width="50%"/>
+
+<img src="/assets/heatmap3.jpg" alt="Lots of yarn" width="50%"/>
+
+*maybe there's too much yarn on this now...*
 
 Like in Engineering Foundations 1, you'll have some side assignments, like CAD.
 
