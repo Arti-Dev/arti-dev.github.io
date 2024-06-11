@@ -7,8 +7,11 @@ A while back one of our co-op members built this sophisticated cave.
 While we don't use most of the chests, portals, or farms in here anymore, it's a great hub for our island.
 
 <img src="/assets/privateisland/balcony1.png" alt="balcony1"/>
+
 <img src="/assets/privateisland/balcony2.png" alt="balcony2"/>
+
 <img src="/assets/privateisland/balcony3.png" alt="balcony3"/>
+
 <img src="/assets/privateisland/technoblade.png" alt="technoblade"/>
 The cave leads outside to a balcony-island that features a beautiful tree and some birch wood scattered on the floor.
 
@@ -58,7 +61,9 @@ So if you want to get a good time, you have to pray that all three pressure plat
 ### yes and no
 
 <img src="/assets/privateisland/yes1.png" alt="yes1"/>
+
 <img src="/assets/privateisland/yes2.png" alt="yes2"/>
+
 <img src="/assets/privateisland/no.png" alt="no"/>
 
 Two parkours that revolve around the Jumppad on the ground. Nothing special.
@@ -66,6 +71,7 @@ Two parkours that revolve around the Jumppad on the ground. Nothing special.
 ### maybe
 
 <img src="/assets/privateisland/maybe1.png" alt="maybe1"/>
+
 <img src="/assets/privateisland/maybe2.png" alt="maybe2"/>
 
 A parkour that requires you to exit the cave, jump on top of the roof for a checkpoint, and finish on the tree.
