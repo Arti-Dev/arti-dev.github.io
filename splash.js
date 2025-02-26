@@ -2,7 +2,8 @@ const possibleSplash =
     ["why hello there.", "please solve a captcha before clicking this text!", "look behind you", "6", "pit",
     "spin the t", "0 is a natural number!", "i feel like............... <br> skyblock",
     "member of FYPit", "there's a pocket in my knife",
-    "how get axe", "figuring out what to do!"]
+    "how get axe", "figuring out what to do!", "im having lucid nightmares", 
+	"definitely not on the clock right now", "wtfrog is a kilometer ????????"]
 
 function changeText() {
     const text = document.getElementById("splash")
