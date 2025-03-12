@@ -1,5 +1,11 @@
 # Remaking a Hypixel Classic: Fill in the Wall
 
+### Update, March 12, 2025
+
+A public, on-demand server of Fill in the Wall has been released! The IP is `fillinthewall.ddns.net`. At the time of writing this, the Minecraft version is 1.21.4, but it will continually be updated to the latest version.
+
+More content aimed at introducing longer-term gameplay/levelling goals will be released in the future. Please check it out at your own leisure!
+
 <img src="/assets/fitw/original.png" alt="original game"/>
 
 This is Hole in the Wall, a minigame on the Hypixel Network. 
