@@ -82,16 +82,16 @@ and the goal is to have the device airborne for the most amount of time.
 My sister was also competing in **Air Trajectory**, an event where you build a device
 that uses the compression of air to launch a ball onto targets to score points.
 
-<img src="/assets/hoohacks25/airtraj.jpg" alt="air trajectory" width="50%"/>
+<img src="/assets/hoohacks25/airtraj.jpg" alt="air trajectory" width="75%"/>
 
 One of my friends from high school tagged along with the Science Olympiad team,
 so me and some other friends (including Ethan) got together to have lunch:
 
-<img src="/assets/hoohacks25/sushi.jpg" alt="sushi" width="50%"/>
+<img src="/assets/hoohacks25/sushi.jpg" alt="sushi" width="75%"/>
 
 Overall, I had a great time watching and supporting the Science Olympiad team as an alumnus.
 
-<img src="/assets/hoohacks25/team.jpg" alt="the team" width="50%"/>
+<img src="/assets/hoohacks25/team.jpg" alt="the team" width="75%"/>
 
 ### Back to HooHacks...
 
