@@ -136,7 +136,7 @@ I think I told one of our artists that I wasn't the boss, I was just "another gu
 
 At the end-of-semester expo I was given a thank-you card from three of my team members, which was totally unexpected!
 
-<img src="/assets/ln/card.jpg" alt="i'm a trading card???" width="100%"/>
+<img src="/assets/ln/card.jpg" alt="i'm a trading card???" width="25%"/>
 
 *thank you for the card, y'all are the best!!!*
 
@@ -173,7 +173,7 @@ I never saw them again, but they were very much right!
 
 I had highly underestimated both how costly it was to produce each level and how long our levels were actually going to be.
 Here's what we ended up completing (according to our final presentation):
-![accomplishments](../assets/ln/accomplishments.png)
+![accomplishments](/assets/ln/accomplishments.png)
 
 So we only made 5 levels, but we were able to polish them really well.
 
@@ -185,7 +185,7 @@ how we made our decisions on cutting content later.
 To assign tasks to people, we used GitHub Projects. It was very helpful for seeing
 what we needed to do and who was working on what!
 
-![github projects](../assets/ln/gitproj.png)
+![github projects](/assets/ln/gitproj.png)
 
 *Right now, it looks like this.*
 
@@ -222,7 +222,7 @@ I'm still not sure why, and I feel like I failed in that regard - but we made ou
 Before most meetings I would try to have something prepared, such as a new world object or some art/SFX implemented
 from our backlog. I was dishing out new features frequently - maybe too many features.
 
-![playground](../assets/ln/playground.png)
+![playground](/assets/ln/playground.png)
 
 *Our testing playground - accessible by inputting the Konami Code on the credits screen*
 
@@ -253,7 +253,8 @@ this only took a couple of hours.
 ---
 
 Alright, that's enough for me to write about today. There's a lot more I could talk about,
-but I think this is a good enough recap of the development of Lucid Nightmares.
+but I think this is a good enough recap of the development of Lucid Nightmares. I know it wasn't a very
+technical one, so if you have questions, I'd be happy to answer them over on Discord or elsewhere!
 
 We ended up being feature-complete well before our End-of-Semester Expo, which gave us plenty of time for testing and final touches.
 Because of that, we were able to release a super polished game.
@@ -261,6 +262,8 @@ I'm very proud of this project, and I can't thank Sebastian and the rest of the 
 
 I hope this blog post helps people who are looking to try something similar.
 As long as you can pull in with some confidence and a drive to get things done, it'll be a very rewarding experience!
+
+[GitHub Repo for Lucid Nightmares](https://github.com/UVASGD/spring-2025-lucid-nightmares)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DEiK0jAUHag?si=w27NPWzCI1jPE_8O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
