@@ -177,8 +177,7 @@ Here's what we ended up completing (according to our final presentation):
 
 So we only made 5 levels, but we were able to polish them really well.
 
-**Be prepared to cut back on your plans.** Unless you're a pro, it's probably inevitable. I'll talk more about
-how we made our decisions on cutting content later.
+**Be prepared to cut back on your plans.** Unless you're a pro, it's probably inevitable.
 
 ## Splitting up the work
 
