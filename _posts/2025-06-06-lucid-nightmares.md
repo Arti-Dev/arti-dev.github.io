@@ -136,7 +136,7 @@ I think I told one of our artists that I wasn't the boss, I was just "another gu
 
 At the end-of-semester expo I was given a thank-you card from three of my team members, which was totally unexpected!
 
-<img src="/assets/ln/card.jpg" alt="i'm a trading card???" width="25%"/>
+<img src="/assets/ln/card.jpg" alt="i'm a trading card???" width="50%"/>
 
 *thank you for the card, y'all are the best!!!*
 
