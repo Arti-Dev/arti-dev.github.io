@@ -134,7 +134,7 @@ I really cared about my team and did my best to accommodate for them however I c
 as friends rather than just people working on the game. I also tried not to act as a authority figure - 
 I think I told one of our artists that I wasn't the boss, I was just "another guy" 😂.
 
-At the end-of-semester expo I was given a thank-you card from three of my team members, which was totally unexpected!
+At the end-of-semester expo I was given a thank-you card crafted from three of my team members, which was totally unexpected!
 
 <img src="/assets/ln/card.jpg" alt="i'm a trading card???" width="50%"/>
 
