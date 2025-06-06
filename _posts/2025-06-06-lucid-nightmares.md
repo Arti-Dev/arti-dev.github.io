@@ -136,7 +136,7 @@ I think I told one of our artists that I wasn't the boss, I was just "another gu
 
 At the end-of-semester expo I was given a thank-you card from three of my team members, which was totally unexpected!
 
-<img src="/assets/ln/card.jpg" alt="i'm a trading card???" width="100%"/>
+<img src="/assets/ln/card.jpg" alt="i'm a trading card???" width="25%"/>
 
 *thank you for the card, y'all are the best!!!*
 
@@ -173,7 +173,7 @@ I never saw them again, but they were very much right!
 
 I had highly underestimated both how costly it was to produce each level and how long our levels were actually going to be.
 Here's what we ended up completing (according to our final presentation):
-![accomplishments](../assets/ln/accomplishments.png)
+![accomplishments](/assets/ln/accomplishments.png)
 
 So we only made 5 levels, but we were able to polish them really well.
 
@@ -185,7 +185,7 @@ how we made our decisions on cutting content later.
 To assign tasks to people, we used GitHub Projects. It was very helpful for seeing
 what we needed to do and who was working on what!
 
-![github projects](../assets/ln/gitproj.png)
+![github projects](/assets/ln/gitproj.png)
 
 *Right now, it looks like this.*
 
@@ -222,7 +222,7 @@ I'm still not sure why, and I feel like I failed in that regard - but we made ou
 Before most meetings I would try to have something prepared, such as a new world object or some art/SFX implemented
 from our backlog. I was dishing out new features frequently - maybe too many features.
 
-![playground](../assets/ln/playground.png)
+![playground](/assets/ln/playground.png)
 
 *Our testing playground - accessible by inputting the Konami Code on the credits screen*
 
