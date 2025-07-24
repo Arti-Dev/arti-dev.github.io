@@ -81,7 +81,7 @@ hr:after {
 }
 
 .frontpageimg {
-    background-image: url("../assets/20231226_174108.jpg");
+    background-image: url("../assets/homepage/20231226_174108.jpg");
     /*background-size: 640px 360px;*/
     background-size: 80%;
     /*filter: blur(2px);*/
