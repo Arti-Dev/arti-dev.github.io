@@ -33,14 +33,34 @@
 <div class="buttonbox">
     <button class="button blog" onclick="location.href = '{{ 'blog' | absolute_url }}'">blog</button>
     <a href="#projects"><button class="button projects">projects</button></a>
+    <button class="button resume" onclick="location.href = '{{ 'assets/resumes/resume_f25_aidan_liu.pdf' | absolute_url }}'">
+        resume
+    </button>
     <button class="button github" onclick="location.href = 'https://github.com/Arti-Dev/'">
         <i class="fab fa-github fa-lg"></i> github
     </button>
     <button class="button youtube" onclick="location.href = 'https://youtube.com/arti_creep'">
         <i class="fa-brands fa-youtube"></i> youtube
     </button>
+    <button class="button resume" onclick="location.href = 'https://www.linkedin.com/in/aidan-liu-618126291/'">
+        <i class="fa-brands fa-linkedin"></i> linkedin
+    </button>
 </div>
-<div class="strip blue-shade-1 image-right">
+<div class="strip blue-shade-1">
+    <h2>Hello!</h2>
+    <p>I'm currently a third-year Computer Science student at the University of Virginia.
+        My main interests are in software development, cybersecurity, robotics, and game design!
+        <br>
+        I'm always looking for new things to try and I strive for quality (and a bit of humor) in everything I do.
+
+        <br><br>Speaking of games, I do play a few of them - mainly <a href="https://ch.tetr.io/u/arti_creep">TETR.IO</a>
+        and the <a href="https://hypixel.net/player/arti_creep">Hypixel Network</a>.
+        <br>I'm currently a member of SkyBlock Nerds and was formerly on the Official Wiki Team and Pit Conclave.
+
+        <br><br>Outside of that, I play violin and piano. Oh, and I've also launched a rocket.
+    </p>
+</div>
+<div class="strip blue-shade-1">
     <p>you might know me from</p>
     <div class="orgs">
         <a href="https://uvasgd.wordpress.com/"><img src="assets/homepage/sgd.jpg" alt="Student Game Developers @ UVA"></a>
@@ -48,24 +68,24 @@
         <a href="https://www.firstyearplayers.org/"><img src="assets/homepage/fyp.jpg" alt="First Year Players"></a>
     </div>
 </div>
-<div class="projectstrip blue-shade-2 image-right" id="projects">
+<div class="project-strip blue-shade-2 image-right" id="projects">
     <div>
         <h1>Fill In The Wall</h1>
         <p>A complete remake and extension of Hypixel's Hole In The Wall minigame!
         <br><b>Try it out now - join <code>fillinthewall.ddns.net</code> on the latest Minecraft version!</b>
-        <br><a href ="{{ '2024/08/08/fillinthewall.html' | absolute_url }}">Read more</a></p>
+        <br><br><a href ="{{ '2024/08/08/fillinthewall.html' | absolute_url }}">Read more</a></p>
     </div>
     <div class="image-wrapper">
         <img src="assets/homepage/fitwthumbnail.jpg" alt="Fill In The Wall thumbnail">
     </div>
 </div>
-<div class="projectstrip blue-shade-1 image-left">
+<div class="project-strip blue-shade-2 image-left">
     <div class="image-wrapper"><img src="assets/homepage/ln.png" alt="Lucid Nightmares thumbnail"></div>
     <div>
         <a href="https://arti-creep.itch.io/lucidnightmares"><h1>Lucid Nightmares</h1></a>
         <p>A puzzle-platformer where you use your mind to control objects around you.
         Navigate dreamy environments and try to reach the goal!
-        <br><a href ="{{ '2025/06/06/lucid-nightmares.html' | absolute_url }}">Read more</a></p>
+        <br><br><a href ="{{ '2025/06/06/lucid-nightmares.html' | absolute_url }}">Read more</a></p>
     </div>
 </div>
 

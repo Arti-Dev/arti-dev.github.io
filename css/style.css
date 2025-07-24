@@ -99,6 +99,7 @@ hr:after {
     display: flex;
     flex-direction: row;
     gap: 25px;
+    flex-wrap: wrap;
 }
 
 .button {
@@ -137,19 +138,23 @@ button.secret:hover {
 
 
 .button.youtube:hover {
-    background-color: red;
+    background-color: #DC143C;
 }
 
 .button.github:hover {
-    background-color: purple;
+    background-color: #08872B;
 }
 
 .button.projects:hover {
-    background-color: #00519e;
+    background-color: #CC5500;
 }
 
 .button.blog:hover {
     background-color: #00519e;
+}
+
+.button.resume:hover {
+    background-color: #1E2952;
 }
 
 .footer {
@@ -197,7 +202,7 @@ a{
     margin: 10px;
 }
 
-.projectstrip {
+.project-strip {
     display: grid;
     padding: 10px;
     margin: 40px 0;
@@ -206,11 +211,11 @@ a{
     align-items: center;
 }
 
-.image-right {
+.project-strip.image-right {
     grid-template-columns: 70% 30%;
 }
 
-.image-left {
+.project-strip.image-left {
     grid-template-columns: 30% 70%;
 }
 
@@ -218,7 +223,7 @@ a{
     padding: 10px;
 }
 
-.projectstrip img {
+.project-strip img {
     max-width: 100%;
 }
 
