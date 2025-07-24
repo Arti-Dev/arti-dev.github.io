@@ -1,9 +1,13 @@
 
-body{
+body {
     background-color: #19181b;
     color: #f8f6ea;
     margin: 20px auto;
-    max-width: 50%;
+    max-width: 60%;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 .header {
@@ -140,17 +144,12 @@ button.secret:hover {
     background-color: purple;
 }
 
-/*.button.projects:hover {*/
-/*    background-color: #ff9028;*/
-/*}*/
-
-.button.projects {
-    opacity: 0.5;
-    cursor: not-allowed;
+.button.projects:hover {
+    background-color: #00519e;
 }
 
 .button.blog:hover {
-    background-color: #2897ff;
+    background-color: #00519e;
 }
 
 .footer {
@@ -176,6 +175,59 @@ a{
     text-align: center;
     font-family: 'Dubai Regular', serif;
     line-height: 1.2
+}
+
+.strip {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: 40px 0;
+    border-style: solid;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.orgs {
+    display: flex;
+    flex-direction: row;
+}
+
+.orgs img {
+    max-height: 128px;
+    margin: 10px;
+}
+
+.projectstrip {
+    display: grid;
+    padding: 10px;
+    margin: 40px 0;
+    border-style: solid;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.image-right {
+    grid-template-columns: 70% 30%;
+}
+
+.image-left {
+    grid-template-columns: 30% 70%;
+}
+
+.image-wrapper {
+    padding: 10px;
+}
+
+.projectstrip img {
+    max-width: 100%;
+}
+
+.blue-shade-1 {
+    background-color: #00294f;
+}
+
+.blue-shade-2 {
+    background-color: #003d76;
 }
 
 @font-face {
