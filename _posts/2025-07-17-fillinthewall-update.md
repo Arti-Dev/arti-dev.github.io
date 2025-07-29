@@ -6,6 +6,8 @@ and lots of quality-of-life changes to make the server a lot more smooth.
 
 You can join the server at `fillinthewall.ddns.net` on 1.21.7/1.21.8.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TFlunc_4lis?si=4lpq4N8bkUP7RZgR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### New singleplayer modes:
 **Endless**
 
