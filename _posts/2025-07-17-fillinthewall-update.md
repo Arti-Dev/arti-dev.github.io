@@ -1,5 +1,9 @@
 # FillInTheWall - Release Changelog
 
+### Update, November 13th, 2025: 
+
+The server has been closed. Thank you all for playing!
+
 I've released an update to the FillInTheWall server, which adds **new singleplayer modes**,
 **new ways to play multiplayer**, a leveling system,
 and lots of quality-of-life changes to make the server a lot more smooth.
