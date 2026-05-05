@@ -26,7 +26,6 @@ function showSlide(n) {
 
 function randomSlide() {
     let slides = document.getElementsByClassName("slide")
-    console.log(slides.length)
     showSlide(Math.floor(Math.random() * slides.length));
 }
 
@@ -42,4 +41,11 @@ function autoNextSlide() {
     }
 }
 
-startAutoplay()
+document.addEventListener("DOMContentLoaded", () => {
+    let slides = document.getElementsByClassName("slide");
+    if (slides.length > 0) {
+        startAutoplay();
+    } else {
+        console.error("Slides not found");
+    }
+});
