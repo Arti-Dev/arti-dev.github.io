@@ -81,13 +81,33 @@ hr:after {
 }
 
 .frontpageimg {
-    background-image: url("../assets/homepage/20231226_174108.jpg");
+    background-image: url("../assets/homepage/slideshow/20231226_174108.jpg");
     /*background-size: 640px 360px;*/
     background-size: 80%;
     /*filter: blur(2px);*/
     height: 360px;
     background-repeat: no-repeat;
     background-position: center;
+}
+
+.slideshow-container {
+    max-width: 80%;
+    position: relative;
+    margin: auto;
+}
+
+.slide {
+    display: none
+}
+
+.caption-text {
+    color: #f2f2f2;
+    font-size: 15px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align: center;
 }
 
 .buttonbox {
