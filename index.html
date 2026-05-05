@@ -6,7 +6,7 @@
 
 <head>
     <script type="text/javascript" src="splash.js"></script>
-    <script type="text/javascript" src="slideshow.js"></script>
+    <script type="text/javascript" defer src="slideshow.js"></script>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -30,23 +30,23 @@
 </div>
 <hr>
 <div class="slideshow-container">
-    <div class="slide">
+    <div class="slide fade">
         <img src="assets/homepage/slideshow/20231226_174108.jpg" alt="">
     </div>
-    <div class="slide">
+    <div class="slide fade">
         <img src="assets/homepage/slideshow/20250920_064402.jpg" alt="">
     </div>
-    <div class="slide">
+    <div class="slide fade">
         <img src="assets/homepage/slideshow/20251229_122223.jpg" alt="">
     </div>
-    <div class="slide">
+    <div class="slide fade">
         <img src="assets/homepage/slideshow/20260105_123359.jpg" alt="">
     </div>
-    <div class="slide">
+    <div class="slide fade">
         <img src="assets/homepage/slideshow/20260222_142642.jpg" alt="">
     </div>
-    <a class="prev" onclick="nextSlide(-1)">&#10094;</a>
-    <a class="next" onclick="prevSlide(1)">&#10095;</a>
+    <a class="prev" onclick="prevSlide()">&#10094;</a>
+    <a class="next" onclick="nextSlide()">&#10095;</a>
 </div>
 
 <div class="buttonbox">
