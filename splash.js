@@ -4,7 +4,7 @@ const possibleSplash =
     "member of FYPit", "there's a pocket in my knife",
     "how get axe", "figuring out what to do!", "im having lucid nightmares", 
 	"definitely not on the clock right now", "wtfrog is a kilometer ????????",
-    "the job application memes are stupid"]
+    "the job application memes are stupid", "only put numbers on stuff if they're meaningful"]
 
 function changeText() {
     const text = document.getElementById("splash")
