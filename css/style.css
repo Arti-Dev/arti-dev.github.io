@@ -91,13 +91,39 @@ hr:after {
 }
 
 .slideshow-container {
-    max-width: 80%;
+    max-width: 100%;
     position: relative;
     margin: auto;
 }
 
 .slide {
-    display: none
+    display: none;
+}
+
+.slide img {
+    max-width: 80%;
+}
+
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 0 5%;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    transition: 0.6s ease;
+    user-select: none;
+}
+
+.next {
+    right: 0;
+}
+
+.prev {
+    left: 0;
 }
 
 .caption-text {
